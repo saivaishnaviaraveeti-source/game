@@ -1,0 +1,13 @@
+# Player design for Space Shooter
+
+player = {
+    "name": "Player",
+    "health": 3,
+    "score": 0,
+    "position": "bottom"
+}
+
+print("Player created")
+print("Health:", player["health"])
+print("Score:", player["score"])
+print("Position:", player["position"])
