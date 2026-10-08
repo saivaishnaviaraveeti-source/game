@@ -1,0 +1,4 @@
+Game idea:space shooter
+The player controls a spaceship
+The player shoots enemies and earn points
+The goal is to destroy enemies and survive
